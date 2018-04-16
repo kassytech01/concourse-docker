@@ -14,6 +14,8 @@ https://concourse-ci.org/
 
 ### Requirements & Prerequisites
 
+Kernel v3.19 以上が必要です。
+
 - Linux
   - kernel v3.19 or later [（※参照）](https://concourse-ci.org/install.html)
 
